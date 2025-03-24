@@ -1,19 +1,23 @@
-# real-time-process-monitoring-dashboard
-A **Real-Time Process Monitoring Dashboard** that provides **live insights into system processes, resource utilization, and performance metrics**. It helps **track CPU, memory, and network usage dynamically**.
+#  Virtual Memory Optimization Challenge  
+
+##  Overview  
+This project aims to **analyze and optimize virtual memory usage** using **various page replacement algorithms** like:  
+- **FIFO (First-In-First-Out)**  
+- **LRU (Least Recently Used)**  
+- **Optimal Page Replacement**  
+- **LFU (Least Frequently Used)**  
+
+The goal is to **reduce page faults and improve memory efficiency** by comparing these algorithms in different scenarios.
 
 ---
 
-##  Features
-✅ **Real-time process tracking**  
-✅ **CPU, Memory & Network Monitoring**  
-✅ **User-friendly Dashboard UI**  
-✅ **Custom Alerts & Notifications**  
-✅ **Multi-platform support (Windows/Linux/Mac)**  
+## Features  
+✅ **Simulation of Page Replacement Algorithms**  
+✅ **Performance Analysis (Page Faults, Hit Ratio, etc.)**  
+✅ **Graphical Representation of Page Replacement Process**  
+✅ **Custom Workloads for Testing**  
+✅ **Comparison of Efficiency for Different Algorithms**  
 
 ---
 
-##  Installation
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/real-time-process-monitoring-dashboard.git
-   cd real-time-process-monitoring-dashboard
+##  Project Structure  
